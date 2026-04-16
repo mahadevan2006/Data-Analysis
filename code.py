@@ -1,0 +1,22 @@
+data = [
+    {"ID": 1, "Name": "Aarav", "Age": 22, "City": "Chennai", "Score": 78},
+    {"ID": 2, "Name": "Diya", "Age": 24, "City": "Coimbatore", "Score": 85},
+    {"ID": 3, "Name": "Vikram", "Age": 21, "City": "Madurai", "Score": 67},
+    {"ID": 4, "Name": "Ananya", "Age": 23, "City": "Salem", "Score": 92},
+    {"ID": 5, "Name": "Rohan", "Age": 25, "City": "Trichy", "Score": 74},
+    {"ID": 6, "Name": "Meera", "Age": 22, "City": "Erode", "Score": 88},
+    {"ID": 7, "Name": "Karthik", "Age": 24, "City": "Tirunelveli", "Score": 69},
+    {"ID": 8, "Name": "Priya", "Age": 23, "City": "Vellore", "Score": 81},
+    {"ID": 9, "Name": "Arjun", "Age": 21, "City": "Thoothukudi", "Score": 73},
+    {"ID": 10, "Name": "Sneha", "Age": 22, "City": "Dindigul", "Score": 90},
+    {"ID": 11, "Name": "Varun", "Age": 25, "City": "Nagercoil", "Score": 66},
+    {"ID": 12, "Name": "Isha", "Age": 24, "City": "Karur", "Score": 84},
+    {"ID": 13, "Name": "Raj", "Age": 23, "City": "Cuddalore", "Score": 71},
+    {"ID": 14, "Name": "Kavya", "Age": 22, "City": "Kanchipuram", "Score": 89},
+    {"ID": 15, "Name": "Surya", "Age": 21, "City": "Thanjavur", "Score": 77},
+    {"ID": 16, "Name": "Neha", "Age": 23, "City": "Ramanathapuram", "Score": 82},
+    {"ID": 17, "Name": "Aditya", "Age": 24, "City": "Sivaganga", "Score": 68},
+    {"ID": 18, "Name": "Pooja", "Age": 22, "City": "Virudhunagar", "Score": 91},
+    {"ID": 19, "Name": "Manoj", "Age": 25, "City": "Namakkal", "Score": 75},
+    {"ID": 20, "Name": "Lakshmi", "Age": 23, "City": "Tiruppur", "Score": 87}
+]
